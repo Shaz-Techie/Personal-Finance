@@ -1,7 +1,7 @@
 # Personal-Finance
 
 ## Overview
-This project leverages a persons income, expenditure and savings dataset to analyse their saving and expenditure behaviour.
+This project leverages a person's income, expenditure and savings dataset to analyse their saving and expenditure behaviour.
 
 ## Dataset Used
 [Dataset](https://github.com/Shaz-Techie/Personal-Finance/blob/main/Finance%20Sheet.xlsx)
